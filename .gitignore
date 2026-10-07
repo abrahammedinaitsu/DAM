@@ -1,0 +1,21 @@
+# ---- Dart / Flutter ----
+.dart_tool/
+build/
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# ---- Android / Android Studio ----
+.idea/
+*.iml
+.gradle/
+local.properties
+**/android/local.properties
+
+# ---- VS Code ----
+.vscode/
+
+# ---- Sistema ----
+Thumbs.db
+Desktop.ini
+*.log
